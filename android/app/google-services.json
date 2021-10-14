@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806942299280",
+    "project_id": "ktaxi-1132e",
+    "storage_bucket": "ktaxi-1132e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806942299280:android:b70ef9e96c1358eecc3415",
+        "android_client_info": {
+          "package_name": "com.hewa.ktaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806942299280-t92cicbonmn4fhrauubbijo99nh7pv8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb2MhK6lc7q8X-OPAWzSazT04DlG3zb_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806942299280-t92cicbonmn4fhrauubbijo99nh7pv8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
